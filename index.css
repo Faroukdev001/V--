@@ -120,3 +120,7 @@ body {
     width: 230px;
   }
 }
+
+.text-container p {
+  color: red;
+}
